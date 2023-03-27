@@ -139,8 +139,8 @@ REST_FRAMEWORK = {
     
 }
 
-AUTHENTICATION_BACKENDS = [
-    'myapp.backends.MyBackend',
-    'django.contrib.auth.backends.ModelBackend',
-]
+# AUTHENTICATION_BACKENDS = [
+#     'cmsapp.backends.MyBackend',
+#     'django.contrib.auth.backends.ModelBackend',
+# ]
 
