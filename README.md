@@ -7,7 +7,7 @@ It includes two types of user roles, admin and author, and allows users to searc
 Installation
 
 
-git clone 
+git clone https://github.com/akshaytp103/cmsproject.git
 
 pip install -r requirements.txt
 
